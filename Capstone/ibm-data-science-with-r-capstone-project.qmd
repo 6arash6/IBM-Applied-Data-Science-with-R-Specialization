@@ -1,0 +1,29 @@
+---
+title: "ibm-data-science-with-r-capstone-project"
+author: "Arash Javan"
+date: "today"
+date-format: "MMM D, YYYY"
+embed-resources: true
+lightbox: true
+fig-align: center
+code-tools: true
+code-link: true
+number-sections: true
+format: 
+  pdf:
+    latex_engine: xelatex
+    keep_tex: true
+    number-sections: true
+    toc: true
+editor: 
+  markdown: 
+    wrap: 72
+header-includes:
+  - \usepackage{array}
+  - \usepackage{longtable}
+  - \usepackage{booktabs}
+  - \usepackage{caption}
+  - \captionsetup[table]{skip=10pt}
+---
+
+## 
